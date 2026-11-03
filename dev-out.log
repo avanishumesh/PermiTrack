@@ -1,0 +1,111 @@
+   ▲ Next.js 15.5.28
+   - Local:        http://localhost:3000
+   - Network:      http://10.92.0.180:3000
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · serverActions
+
+ ✓ Starting...
+ ✓ Ready in 4.7s
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 1391ms (174 modules)
+ ○ Compiling /requests/[id] ...
+ ✓ Compiled /requests/[id] in 10.2s (1323 modules)
+ GET /requests/demo-req-1 200 in 10974ms
+ GET /requests/demo-req-1 404 in 3405ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 1169ms (1342 modules)
+ GET /dashboard 200 in 2403ms
+ GET /requests/demo-req-1 200 in 253ms
+ GET /requests/d0000000-0000-4000-8000-000000000030 200 in 2243ms
+ GET /dashboard 200 in 575ms
+ ○ Compiling /approvals ...
+ ✓ Compiled /approvals in 702ms (1332 modules)
+ GET /approvals 200 in 1493ms
+ ○ Compiling /projects ...
+ ✓ Compiled /projects in 666ms (1340 modules)
+ GET /projects 200 in 1350ms
+ ○ Compiling /admin/requests ...
+ ✓ Compiled /admin/requests in 848ms (1349 modules)
+ GET /admin/requests 200 in 1777ms
+ GET /dashboard 200 in 389ms
+ GET /dashboard 200 in 311ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 3s (1345 modules)
+ GET /login 200 in 3801ms
+ POST /dashboard 303 in 4350ms
+ GET /login 200 in 202ms
+ POST /login 303 in 976ms
+ GET /login 200 in 225ms
+ POST /login 303 in 332ms
+ GET /dashboard 200 in 687ms
+ POST /login 303 in 869ms
+ ○ Compiling /projects/new ...
+ ✓ Compiled /projects/new in 1547ms (1359 modules)
+ GET /projects/new 200 in 2231ms
+ ○ Compiling /projects/[id] ...
+ ✓ Compiled /projects/[id] in 2.2s (1375 modules)
+ GET /projects/d0000000-0000-4000-8000-000000001010 200 in 4119ms
+ POST /projects/new 303 in 4494ms
+ GET /projects/new 200 in 489ms
+ POST /projects/d0000000-0000-4000-8000-000000001010 200 in 553ms
+ GET /login 200 in 272ms
+ POST /projects/new 303 in 467ms
+ GET /dashboard 200 in 452ms
+ POST /login 303 in 630ms
+ POST /projects/d0000000-0000-4000-8000-000000001010 200 in 291ms
+ ○ Compiling /approvals ...
+ ✓ Compiled /approvals in 1168ms (962 modules)
+ GET /approvals 200 in 1865ms
+ ○ Compiling /projects ...
+ ✓ Compiled /projects in 2.1s (967 modules)
+ GET /projects 200 in 2905ms
+ GET /projects 200 in 445ms
+ GET /projects/d0000000-0000-4000-8000-000000001010 200 in 319ms
+ GET /approvals 200 in 225ms
+ ○ Compiling /requests ...
+ ✓ Compiled /requests in 1684ms (1264 modules)
+ GET /requests 200 in 2904ms
+ GET /dashboard 200 in 1159ms
+ GET /login 200 in 191ms
+ POST /dashboard 303 in 696ms
+ GET /dashboard 200 in 419ms
+ POST /login 303 in 604ms
+ GET /requests 200 in 225ms
+ ○ Compiling /requests/new ...
+ ✓ Compiled /requests/new in 2.6s (1304 modules)
+ GET /requests/new 200 in 3478ms
+ GET /projects 200 in 283ms
+ GET /dashboard 200 in 397ms
+ GET /requests 200 in 347ms
+ ○ Compiling /requests/[id] ...
+ ✓ Compiled /requests/[id] in 1430ms (977 modules)
+ GET /requests/d0000000-0000-4000-8000-000000000033 200 in 2300ms
+ GET /projects 200 in 307ms
+ GET /requests 200 in 307ms
+ GET /projects 200 in 243ms
+ GET /requests 200 in 257ms
+ GET /requests/new 200 in 252ms
+ POST /requests/new 200 in 693ms
+ GET /requests/d0000000-0000-4000-8000-000000001011 200 in 285ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 200 in 173ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 200 in 1222ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 200 in 805ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 200 in 637ms
+ GET /requests/d0000000-0000-4000-8000-000000001011 200 in 421ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 200 in 782ms
+ GET /login 200 in 192ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 303 in 451ms
+ GET /dashboard 200 in 477ms
+ POST /login 303 in 645ms
+ GET /approvals 200 in 275ms
+ GET /requests/d0000000-0000-4000-8000-000000001011 200 in 881ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 200 in 1175ms
+ GET /requests/d0000000-0000-4000-8000-000000001011 200 in 789ms
+ GET /login 200 in 178ms
+ POST /requests/d0000000-0000-4000-8000-000000001011 303 in 387ms
+ GET /dashboard 200 in 489ms
+ POST /login 303 in 636ms
+ GET /requests 200 in 334ms
+ GET /requests/d0000000-0000-4000-8000-000000001011 200 in 812ms
+[?25h

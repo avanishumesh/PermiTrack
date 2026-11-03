@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "..",
+    "paths": {
+      "@/*": ["./src/*"],
+      "server-only": ["./scripts/demo-stubs/server-only.ts"],
+      "next/headers": ["./scripts/demo-stubs/next-headers.ts"]
+    }
+  },
+  "include": ["../scripts/demo-interactive-test.ts", "../src/lib/demo.ts", "../src/lib/errors.ts", "../src/lib/types.ts"]
+}
